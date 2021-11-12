@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 22
+names: ['New100Back', 'New100Front', 'New10Back', 'New10Front', 'New2000Back', 'New2000Front', 'New200Back', 'New200Front', 'New20Back', 'New20Front', 'New500Back', 'New500Front', 'New50Back', 'New50Front', 'Old100Back', 'Old100Front', 'Old10Back', 'Old10Front', 'Old20Back', 'Old20Front', 'Old50Back', 'Old50Front']
